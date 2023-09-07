@@ -1,0 +1,22 @@
+h1{
+text-align: center;
+font-size: 12mm;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 8mm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80mm;
+    height: 15mm;
+    font-size: 5mm;
+    border-radius: 2.5mm;
+    background-color: cornflowerblue;
+    position: relative;
+    left: 140mm;
+    top: 10mm;
+}

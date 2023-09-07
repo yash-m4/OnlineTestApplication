@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50mm;
+    height: 10mm;
+    border-radius: 2.5mm;
+    background-color: cadetblue;
+}

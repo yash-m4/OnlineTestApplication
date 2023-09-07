@@ -1,0 +1,19 @@
+img{
+    width: 25mm;
+    height: 25mm;
+    position: relative;
+    left: 3mm;
+    top: 1.5mm;
+}
+div{
+    height: 30mm;
+    background-color: rgb(166, 226, 26);
+}
+#heading{
+    position: relative;
+    bottom: 31mm;
+    left: 40mm;
+    font-size: 15mm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+}

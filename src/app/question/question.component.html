@@ -1,0 +1,12 @@
+<div class="quiz-container">
+
+    <div *ngIf="currentQuestionIndex < questions.length">
+      <h2 class="question-text">{{ questions[currentQuestionIndex].questionText }}</h2>
+      <ul class="options-list">
+        <li *ngFor="let option of questions[currentQuestionIndex].options; let i = index">
+          <button (click)="selectOption(i)">{{ option.text }}</button>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
